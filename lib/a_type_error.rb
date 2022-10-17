@@ -1,3 +1,3 @@
 1 + 1
 
-1 + "is the loneliest number"
+#doing mathematical operations on two objects of different type result in type error

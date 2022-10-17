@@ -1,3 +1,3 @@
 x = 1
-
-x = 
+#syntax error occurs bcz of incorrect syntax
+x = x

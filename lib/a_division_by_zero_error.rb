@@ -1,3 +1,3 @@
 42 / 6
 
-42 / 0
+# errors occur when a number is divided by 0
